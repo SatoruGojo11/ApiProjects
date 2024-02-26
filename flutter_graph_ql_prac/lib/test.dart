@@ -1,6 +1,4 @@
 /*
-
-
 Mutation( options: MutationOptions(   
   document: gql(addCounter),
    update: (GraphQLDataProxy cache, QueryResult result)
