@@ -20,7 +20,6 @@ class _Test1State extends State<Test1> {
     try {
       var response =
           await dio.get('https://jsonplaceholder.typicode.com/posts');
-      // log(response.toString());
 
       if (response.statusCode == 200) {
         log(response.statusCode.toString());

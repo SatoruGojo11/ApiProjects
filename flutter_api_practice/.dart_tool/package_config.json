@@ -110,6 +110,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "fluttertoast",
+      "rootUri": "file:///C:/Users/jaydi/AppData/Local/Pub/Cache/hosted/pub.dev/fluttertoast-8.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "http",
       "rootUri": "file:///C:/Users/jaydi/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.2.0",
       "packageUri": "lib/",
@@ -284,7 +290,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-02-20T16:05:53.104484Z",
+  "generated": "2024-02-26T15:16:30.702614Z",
   "generator": "pub",
   "generatorVersion": "3.2.6"
 }
